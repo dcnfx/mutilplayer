@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebd42614-ff9e-498b-b0e7-adfeadeb61fe" name="dgene.com" url="http://47.99.106.86">
+        <fileTransfer host="47.99.106.86" port="22" rootFolder="/website/mutilview.dgene.com/test" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="98b3ddc1-779c-4d91-a7ce-ed4db9576376" name="很目录" url="http://47.99.106.86">
+        <fileTransfer host="47.99.106.86" port="22" rootFolder="/website/mutilview.dgene.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
